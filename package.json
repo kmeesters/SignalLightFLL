@@ -18,6 +18,8 @@
   "homepage": "https://github.com/FirstLegoLeague/clock",
   "dependencies": {
     "connect": "^3.4.0",
+    "express": "^4.14.0",
+    "pi-gpio": "0.0.8",
     "serve-static": "^1.10.0"
   }
 }

@@ -1,4 +1,5 @@
 var clockConfig = {
-    host: 'ws://localhost:13900/',
-    node: 'clock'
-}
+    host: 'ws://au.scoring.fll-tools.com:13900/',
+    node: 'fllsuite'
+};
+
